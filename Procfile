@@ -1,0 +1,1 @@
+web: npde --experimental-modules backend/server/js
